@@ -1,5 +1,4 @@
-# single-asset-liquidity
-Provide one of the two tokens in a pair to provide liquidity. 
+Single-Asset-Staing: Provide one of the two tokens in a pair to provide liquidity. 
 
 Basic example:
 lets say tokenC pair = tokenA + tokenB,
